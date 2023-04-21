@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://example.org/docs/responses/</loc>
+  </url><url>
+    <loc>http://example.org/docs/uses/</loc>
+  </url><url>
+    <loc>http://example.org/docs/responses/collapsed/harvard/</loc>
+  </url><url>
+    <loc>http://example.org/docs/responses/collapsed/stanford/</loc>
+  </url><url>
+    <loc>http://example.org/docs/uses/collapsed/writing/</loc>
+  </url><url>
+    <loc>http://example.org/categories/</loc>
+  </url><url>
+    <loc>http://example.org/docs/concerns/</loc>
+  </url><url>
+    <loc>http://example.org/docs/</loc>
+  </url><url>
+    <loc>http://example.org/</loc>
+  </url><url>
+    <loc>http://example.org/docs/introduction/</loc>
+  </url><url>
+    <loc>http://example.org/tags/</loc>
+  </url>
+</urlset>
