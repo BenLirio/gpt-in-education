@@ -1,3 +1,7 @@
+---
+title: Foreign Language
+---
+
 # Foreign Language
 ## Common Mistakes in Language
 

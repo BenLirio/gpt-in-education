@@ -1,3 +1,6 @@
+---
+title: Quiz Creation
+---
 # Quiz creation
 
 - Discord Channel: OpenAI
