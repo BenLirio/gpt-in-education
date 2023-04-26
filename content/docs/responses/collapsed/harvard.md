@@ -1,1 +1,0 @@
-[Harvard Response](https://hbsp.harvard.edu/inspiring-minds/chatgpt-and-ai-text-generators-should-academia-adapt-or-resist)

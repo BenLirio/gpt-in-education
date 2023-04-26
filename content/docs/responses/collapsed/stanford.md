@@ -1,1 +1,0 @@
-[Stanford Response](https://ed.stanford.edu/news/stanford-faculty-weigh-new-ai-chatbot-s-shake-learning-and-teaching)

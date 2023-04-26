@@ -4,6 +4,8 @@ bookFlatSection: true
 weight: 2
 ---
 
+# Responses
+
 Prior to the Spring 2023 semester, schools released faculty advice concerning ChatGPT [1],[2],[3]. Because the advice was given by different faculty members and the use of ChatGPT in education is a tough topic, much of the advice contradicted itself. It is best to view this summary as a list of things to consider when deciding what to do about AI in education.
 
 - **Generates Writing Samples**. This tool can be used by teachers to quickly generate examples of good and bad writing in different contexts [2]. Yes, it is possible for teachers to come up with these examples on their own, but having an AI do the legwork and verifying the results can save time.
