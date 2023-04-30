@@ -1,0 +1,6 @@
+baseURL: "http://example.org/"
+languageCode: "en-us"
+title: "GPT in Education"
+theme:
+- hugo-book
+- hugo-cite

@@ -1,0 +1,164 @@
+[
+    {
+        "id": "Lessig 2002",
+        "author": [
+            {
+                "family": "Lessig",
+                "given": "Lawrence"
+            }
+        ]
+    },
+  {
+    "id": "openai-gpt4",
+    "type": "webpage",
+    "title": "GPT4",
+    "author": [
+      {
+        "family": "OpenAI",
+        "given": "OpenAI"
+      }
+    ],
+    "URL": "https://openai.com/research/gpt-4/",
+    "issued": {
+      "date-parts": [
+        [2023, 3, 14]
+      ]
+    },
+    "accessed": {
+      "date-parts": [
+        [2023, 4, 20]
+      ]
+    }
+  },
+  {
+    "id": "harvard-response",
+    "author": [
+      {
+        "family": "Mucharraz y Cano",
+        "given": "Yvette"
+      },
+      {
+        "family": "Venuti",
+        "given": "Francesco"
+      },
+      {
+        "family": "Herreta Martinez",
+        "given": "Ricardo"
+
+      }
+    ],
+    "type": "webpage",
+    "title": "ChatGPT and AI Text Generators: Should Academia Adapt or Resist?",
+    "URL": "https://hbsp.harvard.edu/inspiring-minds/chatgpt-and-ai-text-generators-should-academia-adapt-or-resist",
+    "issued": {
+      "date-parts": [
+        [2023, 2, 1]
+      ]
+    }
+  },
+  {
+    "id": "stanford-response",
+    "author": [
+      {
+        "given": "Victor",
+        "family": "Lee"
+      },
+      {
+        "given": "Chris",
+        "family": "Lemons"
+      },
+      {
+        "given": "Bryan",
+        "family": "Brown"
+      },
+      {
+        "given": "Anthony",
+        "family": "Lising Antonio"
+      },
+      {
+        "given": "Sarah",
+        "family": "Levine"
+      }
+    ],
+    "type": "webpage",
+    "title": "Stanford faculty weigh in on ChatGPT's shake-up in education",
+    "URL": "https://ed.stanford.edu/news/stanford-faculty-weigh-new-ai-chatbot-s-shake-learning-and-teaching",
+    "issued": {
+      "date-parts": [
+        [2022, 12, 20]
+      ]
+    }
+  },
+  {
+    "id": "mit-endorsed-response",
+    "author": [
+      {
+        "given": "Edward",
+        "family": "schiappa"
+     }
+    ],
+    "type": "webpage",
+    "title": "Advice Concerning the Increase in AI-Assisted Writing",
+    "URL": "https://nickm.com/post/2023/01/advice-concerning-the-increase-in-ai-assisted-writing/",
+    "issued": {
+      "date-parts": [
+        [2023, 1, 10]
+      ]
+    }
+  },
+  {
+    "id": "stevens-response",
+    "author": [
+      {
+        "given": "Carlo",
+        "family": "Lipizzi"
+      },
+      {
+        "given": "Gregory",
+        "family": "Morgan"
+      }
+    ],
+    "type": "webpage",
+    "title": "Is ChatGPT going to Eat (or Save) the World",
+    "URL": "https://www.stevens.edu/news/is-chatgpt-going-to-eat-or-save-the-world",
+    "issued": {
+      "date-parts": [
+        [2023, 1, 19]
+      ]
+    }
+  },
+  {
+    "id": "openai-educator-considerations",
+    "author": [
+      {
+        "given": "OpenAI",
+        "family": "OpenAI"
+      }
+    ],
+    "type": "webpage",
+    "title": "Educator Considerations for ChatGPT",
+    "URL": "https://platform.openai.com/docs/chatgpt-education",
+    "accessed": {
+      "date-parts": [
+        [2023, 4, 25]
+      ]
+    }
+  },
+  {
+    "id": "openai-chatgpt-release",
+    "author": [
+      {
+        "given": "OpenAI",
+        "family": "OpenAI"
+      }
+    ],
+    "type": "webpage",
+    "title": "Introducing ChatGPT",
+    "URL": "https://openai.com/blog/chatgpt",
+    "issued": {
+      "date-parts": [
+        [2022, 12, 30]
+      ]
+    }
+  }
+]
