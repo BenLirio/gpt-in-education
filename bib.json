@@ -160,5 +160,40 @@
         [2022, 12, 30]
       ]
     }
+  },
+  {
+    "id": "gpt-for-good",
+    "author": [  {    "given": "Enkelejda",    "family": "Kasneci"  },  {    "given": "Kathrin",    "family": "Sessler"  },  {    "given": "Stefan",    "family": "Küchemann"  },  {    "given": "Maria",    "family": "Bannert"  },  {    "given": "Daryna",    "family": "Dementieva"  },  {    "given": "Frank",    "family": "Fischer"  },  {    "given": "Urs",    "family": "Gasser"  },  {    "given": "Georg",    "family": "Groh"  },  {    "given": "Stephan",    "family": "Günnemann"  },  {    "given": "Eyke",    "family": "Hüllermeier"  },  {    "given": "Stepha",    "family": "Krusche"  },  {    "given": "Gitta",    "family": "Kutyniok"  },  {    "given": "Tilman",    "family": "Michaeli"  },  {    "given": "Claudia",    "family": "Nerdel"  },  {    "given": "Jürgen",    "family": "Pfeffer"  },  {    "given": "Oleksandra",    "family": "Poquet"  },  {    "given": "Michael",    "family": "Sailer"  },  {    "given": "Albrecht",    "family": "Schmidt"  },  {    "given": "Tina",    "family": "Seidel"  },  {    "given": "Matthias",    "family": "Stadler"  },  {    "given": "Jochen",    "family": "Weller"  },  {    "given": "Jochen",    "family": "Kuhn"  },  {    "given": "Gjergji",    "family": "Kasneci"  },  {    "given": "Floridi",    "family": "Chiriatti"  },  {    "given": "Devlin",    "family": "et al."  },  {    "given": "Tay",    "family": "et al."  },  {    "given": "Vaswani",    "family": "et al."  }],
+    "type": "article",
+    "title": "ChatGPT for good? On opportunities and challenges of large language models for education",
+    "issued": {
+      "date-parts": [
+        [2023, 4, 1]
+      ]
+    }
+  },
+  {
+    "id": "bullshit-spewer",
+    "author": [
+      {
+        "given": "Jurgen",
+        "family": "Rudolph"
+      },
+      {
+        "given": "Samson",
+        "family": "Tan"
+      },
+      {
+        "given": "Shannon",
+        "family": "Tan"
+      }
+    ],
+    "type": "article",
+    "issued": {
+      "date-parts": [
+        [2023, 1, 24]
+      ]
+    },
+    "title": "ChatGPT: Bullshit spewer or the end of traditional assessments in higher education?"
   }
 ]

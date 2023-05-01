@@ -7,6 +7,7 @@ bibFile: bib.json
 
 # Responses
 
+## University Responses
 In response to the release of ChatGPT in November 2022 {{< cite "openai-chatgpt-release" >}}, several universities including Stevens {{< cite "stevens-response" >}}, Harvard {{< cite "harvard-response" >}} and Stanford {{< cite "stanford-response" >}} responded with articles explaining their view on the new technology. The professors who responded have mixed feelings regarding generative AI because it allows students to complete homework assignments. However, some faculty members believe that the benefits of GPT out weigh downsides. The following is a list of ideas common among the university responses.
 
 {{< hint warning >}}
@@ -43,24 +44,51 @@ So here I stand, at the precipice of a new beginning, with the words of Emerson 
 
 ChatGPT can make teachers more effective. In February 2023, Harvard described the positive and negative impact ChatGPT will have on the classroom. Regarding the positives, they focused on how teachers can use it to create review sessions, automatically grade homework, and emulate conversation for language learning {{< cite "harvard-response" >}}.
 
-### Be Cautious
-
-ChatGPT is a tool and the output of this tool can mislead students. I asked a Professor Schaumann, a computer science professor at Stevens, how ChatGPT will impact education. In contrast with the articles released early this year, Professor Schaumann has had an entire semester of classroom experience with these tools. His response differed from the standard response of either trying to promote or detect cheating using ChatGPT. Instead, he focused on the danger ChatGPT has to students.
-
-If students use ChatGPT to learn information they do not already know, then how will they verify that the output of ChatGPT is correct? The problem is that ChatGPT can generate text that looks reasonable, but the facts it points out are often false. The same problem occurs when students trust the first article they read after Google searching a question. Professor Schaumann recommends that, when using Google or ChatGPT to answer questions, students ask themselves, "(a) what you're asking, (b) if what you're asking is actually what you need to know, (c) if what you found does actually answer your question, and (d) what assumptions or shortcuts the answer is making."
-
 ### Overreliance
 
 If a student graduates from highschool, or university by using ChatGPT to solve their homework, the question becomes: did the student graduate, or did ChatGPT graduate. The Harvard business publishing states that students can over use generative AI and "miss out on important learning opportunities" {{< cite "harvard-response" >}}.
 
 In general, when people depend on unreliable technology, it can lead to problems. For example, I always use Google Maps when I drive and, while the technology is more reliable than my memory, my phone battery is unreliable. When my phone does I am lost and have to stop to charge my phone or drive out of the way until I recognize a road. This example demonstrates that becoming reliant on a technology that is not always available can be a problem. As of this writing ChatGPT is far from reliable as it requires an internet connection, paid subscription (to have access when servers are overloaded), and often outputs fabricated facts. If tech companies can fix these problems and make language models reliable, then the case against overeliance is diminished.
 
-- **Generates Writing Samples**. This tool can be used by teachers to quickly generate examples of good and bad writing in different contexts [2]. Yes, it is possible for teachers to come up with these examples on their own, but having an AI do the legwork and verifying the results can save time.
-- **Tool for Thinking**. ChatGPT can be used by students to brainstorm different approaches to problems. Writing can be used as a tool for organizing ones thoughts but not everyone has the writings skills necessary to do that. ChatGPT can close this gap and allow more people to benefit from using writing as a way to organize thoughts [2].
-- **College Admissions**. AI makes producing high quality admissions essays easier. The problem arises because it college admissions is a competitive process that is more based on how your essay compares with other students essay.
-- **Learn ethical use**. Generative AI is here to stay and it is important that students learn how to use these tools ethically [1], [2]. If universities are not teaching students how to use these tool the correct way who will?
-- **Overreliance**. Using ChatGPT can cause students to over rely on them [1]. A good analogy is when someone uses google maps every time they drive and then their phone dies while they are half way though a trip and they get lost. In the same way people can become overreliant on AI tools and fail to function when they are taken away.
+### Be Cautious
 
+ChatGPT is a tool and the output of this tool can mislead students. I asked a Professor Schaumann, a computer science professor at Stevens, how ChatGPT will impact education. In contrast with the articles released early this year, Professor Schaumann has had an entire semester of classroom experience with these tools. His response differed from the standard response of either trying to promote or detect cheating using ChatGPT. Instead, he focused on the danger ChatGPT has to students.
+
+If students use ChatGPT to learn information they do not already know, then how will they verify that the output of ChatGPT is correct? The problem is that ChatGPT can generate text that looks reasonable, but the facts it points out are often false. The same problem occurs when students trust the first article they read after Google searching a question. Professor Schaumann recommends that, when using Google or ChatGPT to answer questions, students ask themselves, "(a) what you're asking, (b) if what you're asking is actually what you need to know, (c) if what you found does actually answer your question, and (d) what assumptions or shortcuts the answer is making."
+
+
+## Academic Responses
+
+### GPT For Good?
+
+Although there are many ways that ChatGPT can be abused to get out of doing work in an educational context, if used correctly, ChatGPT lead to a better educational system {{< cite "gpt-for-good" >}}. In an article submitted in February titled "ChatGPT for good? On opportunities and challenges of large language models for education", Kasneci et al. elaborates on the potential benefits of using AI in education. Here are several domains of education that generative AI can assist.
+
+- **Elementary School**. ChatGPT can be used to analyze student responses in order to correct grammar and provide feedback on critical thinking skills.
+- **Middle & Highschool**. Used to generate learning material such as quizzes. Provides example solutions that students can follow.
+- **College Students**. Summarize text to increase learning rate. Helps students retrieve information.
+- **Disabilities**. The flexibility of AI leads to more flexible learning strategies. Can help rework topics in ways that students can better understand.
+
+Kasneci et al. also describe how researches used GPT3 to generate quizzes for students. I though this would be a fun experiment to recreate so I created a github repository that does that. You can view it [here](https://github.com/BenLirio/quiz-generation).
+
+### Bullshit Spewer
+
+One of the more critical reviews of ChatGPT titled "ChatGPT: Bullshit spewer or the end of traditional assessments in higher education?" provides guidance to on how to adapt to this new technology {{< cite "bullshit-spewer" >}}. To set the stage Jurgen et al. say that the problem arises from technology progressing faster than the educational system. In a slightly joking manner they state that it will take
+
+> "10  years  for  academia  to  face  this new reality: two years for the students to figure out the tech, three more years for the professors to recognize that students are using the tech, and then five years for university administrators to decide what, if anything, to do about it."
+
+One workaround is to asses students on assignments that AI models are deficient in. This is a short term solution as the models continue to improve, but hopefully it will give school enough buffer to adapt to the new technologies. The limitations of the model are the following:
+
+- **Image understanding**. ChatGPT cannot understand images so assessing students based on video or images is one was to degrade the ability of students to cheat using AI tools.
+
+- **Recent Events**. AI models often have a data cutoff in which a model is not aware of any events that take place after that date. Assigning relating to current events are harder for students to solve with AI.
+
+- **Niche Topics**. While the breadth of knowledge in a GPT model is impressive, it is not limitless. The more Niche a topic is the less likely an AI model is to generate a correct response.
+
+- **Personal Experience**. By assigning homework that is specific to a student, teachers can increase the difficulty of cheating.
+
+- **Cross Referencing**. ChatGPT has a tough time creating valid references. By assigning homework that requires students to reference different research papers, it will be harder for them to leverage AI.
+
+Even if a educator uses the tips provided here, students can still finds ways to bend the rules. In addition, developments in GPT4 are already showing abilities to understand images and increase contextual awareness. For example, if a student is asked to write an essay about a current event, they can just paste a recent news article into GPT4 and it will understand the current event.
 
 ## Bibliography 
 
